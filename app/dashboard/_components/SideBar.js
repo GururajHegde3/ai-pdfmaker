@@ -9,7 +9,7 @@ function SideBar() {
   return (
     
     <div className='shadow-md h-screen p-7'>
-    <Image src={'/logo.svg'}  alt='logo' width={120} height={120}/>
+    <Image src={'/ai-shiksha-logo.png'}  alt='logo' width={120} height={120}/>
    
     <div className='mt-10'>
     <UploadPdfDialog>
