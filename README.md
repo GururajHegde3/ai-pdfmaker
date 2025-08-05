@@ -21,15 +21,8 @@ AI PDF Note Taker is an intelligent application designed to help users take note
 - Rich text editing with TipTap.
 - AI summarization and assistance with Gemini and LangChain.
 
-## Developer
-This project was developed by **Mohammad Armaan**. You can check out his portfolio here: [Mohammad Armaan](https://mohammadarmaan.netlify.app)
 
-## Deployment
-The project is live and accessible at: [AI PDF Note Taker](https://aipdfnotetaker.vercel.app)
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
-
-## License
-This project is licensed under the MIT License.
-
+## to run the project
+ - first do npm install
+ - then npm run dev
+ 
