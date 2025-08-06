@@ -64,7 +64,7 @@ export default function Home() {
               Where Innovation Meets Education - Manage and interact with your
               PDFs using advanced AI technology.
             </p>
-            <Link href="/sign-in?redirect_url=/dashboard">
+            <Link href="/sign-in?redirectUrl=/dashboard">
               <Button className="bg-black text-white px-8 py-3 rounded-md hover:bg-gray-800 text-lg">
                 Get Started
               </Button>
@@ -127,7 +127,7 @@ export default function Home() {
           <h3 className="text-2xl font-semibold mb-4 text-blue-900">
             Ready to revolutionize your PDF experience?
           </h3>
-          <Link href="/sign-in?redirect_url=/dashboard">
+          <Link href="/sign-in?redirectUrl=/dashboard">
             <Button className="bg-black text-white px-8 py-3 rounded-md hover:bg-gray-800 text-lg">
               Start Now
             </Button>
