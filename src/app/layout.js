@@ -18,7 +18,8 @@ export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <body className={`${outfit.className}`}>
-              <ClerkProvider>
+              <ClerkProvider fallbackRedirectUrl="https://ai-pdfnotetaker.onrender.com/dashboard"
+  forceRedirectUrl="https://ai-pdfnotetaker.onrender.com/dashboard">
                 <Provider>
                     {children}
                     </Provider>
